@@ -1,0 +1,4 @@
+<?php
+
+    $hoje = new DateTime();
+    
